@@ -18,9 +18,9 @@
 
 ![image](https://github.com/ckaudwn1685/ResearchAI-TESTVER/assets/122199987/2eebcc8a-bb5c-4e6b-9798-145fc910cd4a)
 
-  -> Flowise를 통해 구축한 대화형 챗봇의 모습. ChatOpenAI 모델 선택 및 파라미터 자유자재로 수정 가능. 
+  -> [Flowise](https://github.com/ckaudwn1685/Flowise)를 통해 구축한 대화형 챗봇의 모습. ChatOpenAI 모델 선택 및 파라미터 자유자재로 수정변경 가능. 
   <sub>*Flowise : Open source UI visual tool to build your customized LLM ochestration flow & AI agents</sub>
 
 ![image](https://github.com/ckaudwn1685/ResearchAI-TESTVER/assets/122199987/e4f336d7-a004-4339-a6de-639cd03416c7)
 
-  -> 서버를 배포하기 위해 Render 내 Flowise의 API를 연결하여 서버를 구축
+  -> 서버를 배포하기 위해 Render 내 Flowise의 API를 연결하여 서버 구축완료.
